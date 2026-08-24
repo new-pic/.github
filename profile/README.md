@@ -1,4 +1,4 @@
-<img src="./assets/icon.png" width="200px" />
+<img src="./assets/icon.png" width="120px" />
 
 # Newpic 📸
 
