@@ -16,8 +16,8 @@
 ## Repositories 
 | Repository | Description |
 | --- | --- |
-| frontend | React Native / Expo 기반 모바일 앱 |
-| backend | API 서버 |
+| [frontend](https://github.com/new-pic/frontend) | React Native / Expo 기반 모바일 애플리케이션 |
+| backend | 서비스 API 서버 |
 
 
 ## Team 👥
