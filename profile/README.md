@@ -1,8 +1,9 @@
-
+<img src="./assets/hello-newpic.png" width="500px" />
 # Newpic 📸
 
 > 원하는 구도와 포즈로 더 쉽게 사진을 촬영할 수 있도록 돕는 모바일 앱
 
+<img src="./assets/앱소개2.jpg" width="100%" />
 
 ## Key Features 
 - 실시간 포즈 가이드
